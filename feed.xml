@@ -13,5 +13,29 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
     <itunes:image href="https://rabmeireliyahu.github.io/isaaccredi/portada.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>false</itunes:explicit>
-  </channel>
+      <item>
+      <title>Mujeres Embarazadas - Noche de Kipur</title>
+      <description>Mujeres Embarazadas - Noche de Kipur</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Mujeres_Embarazadas_-_Noche_de_Kipur.mp3" length="5414322" type="audio/mpeg"/>
+      <guid isPermaLink="false">Mujeres_Embarazadas_-_Noche_de_Kipur.mp3</guid>
+      <pubDate>Sun, 20 Sep 2026 14:20:17 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Hacer la Suca terminando Kipur , Kidush de Sucot, Comer Pan</title>
+      <description>Hacer la Suca terminando Kipur , Kidush de Sucot, Comer Pan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Hacer_la_Suca_terminando_Kipur_%2C_Kidush_de_Sucot%2C_Comer_Pan.mp3" length="5519468" type="audio/mpeg"/>
+      <guid isPermaLink="false">Hacer_la_Suca_terminando_Kipur_,_Kidush_de_Sucot,_Comer_Pan.mp3</guid>
+      <pubDate>Tue, 22 Sep 2026 08:58:26 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Si llueve la primera noche de Sukot, Manera de habitar en la suca</title>
+      <description>Si llueve la primera noche de Sukot, Manera de habitar en la suca</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Si_llueve_la_primera_noche_de_Sukot%2C_Manera_de_habitar_en_la_suca.mp3" length="5602862" type="audio/mpeg"/>
+      <guid isPermaLink="false">Si_llueve_la_primera_noche_de_Sukot,_Manera_de_habitar_en_la_suca.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 13:51:12 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+</channel>
 </rss>

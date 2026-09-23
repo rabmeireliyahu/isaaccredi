@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Halajot Yalkut Yosef- Sr Isaac Credi</title>
+    <description>Se dan 5 halajot diarias de yalkut yosef a la seder para poder ir estudiando todas la halajot.
+Se tratara que los audios sean cortos y al tema centrar para poderlos escuchar en 3 a 5 minutos que todos tenemos al día.
+
+https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
+    <link>https://rabmeireliyahu.github.io/isaaccredi</link>
+    <language>es</language>
+    <itunes:author>Otzar hatorah</itunes:author>
+    <itunes:owner><itunes:name>Otzar hatorah</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/isaaccredi/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+  </channel>
+</rss>

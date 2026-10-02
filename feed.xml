@@ -1,94 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Halajot Yalkut Yosef- Sr Isaac Credi</title>
-    <description>Se dan 5 halajot diarias de yalkut yosef a la seder para poder ir estudiando todas la halajot.
-Se tratara que los audios sean cortos y al tema centrar para poderlos escuchar en 3 a 5 minutos que todos tenemos al día.
-
-https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
-    <link>https://rabmeireliyahu.github.io/isaaccredi</link>
-    <language>es</language>
-    <itunes:author>Otzar hatorah</itunes:author>
-    <itunes:owner><itunes:name>Otzar hatorah</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://rabmeireliyahu.github.io/isaaccredi/portada.jpg"/>
-    <itunes:category text="Religion &amp; Spirituality"/>
-    <itunes:explicit>false</itunes:explicit>
-      <item>
-      <title>Mujeres Embarazadas - Noche de Kipur</title>
-      <description>Mujeres Embarazadas - Noche de Kipur</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Mujeres_Embarazadas_-_Noche_de_Kipur.mp3" length="5414322" type="audio/mpeg"/>
-      <guid isPermaLink="false">Mujeres_Embarazadas_-_Noche_de_Kipur.mp3</guid>
-      <pubDate>Sun, 20 Sep 2026 14:20:17 -0000</pubDate>
-      <itunes:explicit>false</itunes:explicit>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Halajot Yalkut Yosef- Sr Isaac Credi</title>
+    <description>Se dan 5 halajot diarias de yalkut yosef a la seder para poder ir estudiando todas la halajot.
+Se tratara que los audios sean cortos y al tema centrar para poderlos escuchar en 3 a 5 minutos que todos tenemos al día.
+
+https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
+    <link>https://rabmeireliyahu.github.io/isaaccredi</link>
+    <language>es</language>
+    <itunes:author>Otzar hatorah</itunes:author>
+    <itunes:owner><itunes:name>Otzar hatorah</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/isaaccredi/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+      <item>
+      <title>Mujeres Embarazadas - Noche de Kipur</title>
+      <description>Mujeres Embarazadas - Noche de Kipur</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Mujeres_Embarazadas_-_Noche_de_Kipur.mp3" length="5414322" type="audio/mpeg"/>
+      <guid isPermaLink="false">Mujeres_Embarazadas_-_Noche_de_Kipur.mp3</guid>
+      <pubDate>Sun, 20 Sep 2026 14:20:17 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Hacer la Suca terminando Kipur , Kidush de Sucot, Comer Pan</title>
+      <description>Hacer la Suca terminando Kipur , Kidush de Sucot, Comer Pan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Hacer_la_Suca_terminando_Kipur_%2C_Kidush_de_Sucot%2C_Comer_Pan.mp3" length="5519468" type="audio/mpeg"/>
+      <guid isPermaLink="false">Hacer_la_Suca_terminando_Kipur_,_Kidush_de_Sucot,_Comer_Pan.mp3</guid>
+      <pubDate>Tue, 22 Sep 2026 08:58:26 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Si llueve la primera noche de Sukot, Manera de habitar en la suca</title>
+      <description>Si llueve la primera noche de Sukot, Manera de habitar en la suca</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Si_llueve_la_primera_noche_de_Sukot%2C_Manera_de_habitar_en_la_suca.mp3" length="5602862" type="audio/mpeg"/>
+      <guid isPermaLink="false">Si_llueve_la_primera_noche_de_Sukot,_Manera_de_habitar_en_la_suca.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 13:51:12 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Hacer la Suca terminando Kipur , Kidush de Sucot, Comer Pan</title>
-      <description>Hacer la Suca terminando Kipur , Kidush de Sucot, Comer Pan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Hacer_la_Suca_terminando_Kipur_%2C_Kidush_de_Sucot%2C_Comer_Pan.mp3" length="5519468" type="audio/mpeg"/>
-      <guid isPermaLink="false">Hacer_la_Suca_terminando_Kipur_,_Kidush_de_Sucot,_Comer_Pan.mp3</guid>
-      <pubDate>Tue, 22 Sep 2026 08:58:26 -0000</pubDate>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Si llueve la primera noche de Sukot, Manera de habitar en la suca</title>
-      <description>Si llueve la primera noche de Sukot, Manera de habitar en la suca</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Si_llueve_la_primera_noche_de_Sukot%2C_Manera_de_habitar_en_la_suca.mp3" length="5602862" type="audio/mpeg"/>
-      <guid isPermaLink="false">Si_llueve_la_primera_noche_de_Sukot,_Manera_de_habitar_en_la_suca.mp3</guid>
-      <pubDate>Wed, 23 Sep 2026 13:51:12 -0000</pubDate>
+      <title>Cantidades para comer en la Suca, Seuda en Shabat - Sr. Isaac Credi</title>
+      <description>Cantidades para comer en la Suca, Seuda en Shabat - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Cantidades%20para%20comer%20en%20la%20Suca%2C%20Seuda%20en%20Shabat%20-%20Sr.%20Isaac%20Credi.mp3" length="5741229" type="audio/mpeg"/>
+      <guid isPermaLink="false">Cantidades para comer en la Suca, Seuda en Shabat - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Thu, 24 Sep 2026 10:07:25 -0000</pubDate>
+      <itunes:duration>00:05:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Cantidades para comer en la Suca, Seuda en Shabat - Sr. Isaac Credi</title>
-      <description>Cantidades para comer en la Suca, Seuda en Shabat - Sr. Isaac Credi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Cantidades%20para%20comer%20en%20la%20Suca%2C%20Seuda%20en%20Shabat%20-%20Sr.%20Isaac%20Credi.mp3" length="5741229" type="audio/mpeg"/>
-      <guid isPermaLink="false">Cantidades para comer en la Suca, Seuda en Shabat - Sr. Isaac Credi.mp3</guid>
-      <pubDate>Thu, 24 Sep 2026 10:07:25 -0000</pubDate>
-      <itunes:duration>00:05:58</itunes:duration>
+      <title>Visitar a el compañero en la Suca, Obligación de las mujeres, Pasear en Sucot - Sr. Isaac Credi</title>
+      <description>Visitar a el compañero en la Suca, Obligación de las mujeres, Pasear en Sucot - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Visitar%20a%20el%20compa%C3%B1ero%20en%20la%20Suca%2C%20Obligaci%C3%B3n%20de%20las%20mujeres%2C%20Pasear%20en%20Sucot%20-%20Sr.%20Isaac%20Credi.mp3" length="5293869" type="audio/mpeg"/>
+      <guid isPermaLink="false">Visitar a el compañero en la Suca, Obligación de las mujeres, Pasear en Sucot - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 08:54:29 -0000</pubDate>
+      <itunes:duration>00:05:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Visitar a el compañero en la Suca, Obligación de las mujeres, Pasear en Sucot - Sr. Isaac Credi</title>
-      <description>Visitar a el compañero en la Suca, Obligación de las mujeres, Pasear en Sucot - Sr. Isaac Credi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Visitar%20a%20el%20compa%C3%B1ero%20en%20la%20Suca%2C%20Obligaci%C3%B3n%20de%20las%20mujeres%2C%20Pasear%20en%20Sucot%20-%20Sr.%20Isaac%20Credi.mp3" length="5293869" type="audio/mpeg"/>
-      <guid isPermaLink="false">Visitar a el compañero en la Suca, Obligación de las mujeres, Pasear en Sucot - Sr. Isaac Credi.mp3</guid>
-      <pubDate>Fri, 25 Sep 2026 08:54:29 -0000</pubDate>
-      <itunes:duration>00:05:30</itunes:duration>
+      <title>Leyes de el Lulab - Sr. Isaac Credi</title>
+      <description>Leyes de el Lulab - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Leyes%20de%20el%20Lulab%20-%20Sr.%20Isaac%20Credi.mp3" length="5115309" type="audio/mpeg"/>
+      <guid isPermaLink="false">Leyes de el Lulab - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Mon, 28 Sep 2026 10:25:14 -0000</pubDate>
+      <itunes:duration>00:05:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Leyes de el Lulab - Sr. Isaac Credi</title>
-      <description>Leyes de el Lulab - Sr. Isaac Credi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Leyes%20de%20el%20Lulab%20-%20Sr.%20Isaac%20Credi.mp3" length="5115309" type="audio/mpeg"/>
-      <guid isPermaLink="false">Leyes de el Lulab - Sr. Isaac Credi.mp3</guid>
-      <pubDate>Mon, 28 Sep 2026 10:25:14 -0000</pubDate>
-      <itunes:duration>00:05:19</itunes:duration>
+      <title>Leyes de el Hadas y la Araba - Sr. Isaac Credi</title>
+      <description>Leyes de el Hadas y la Araba - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Leyes%20de%20el%20Hadas%20y%20la%20Araba%20-%20Sr.%20Isaac%20Credi.mp3" length="5356845" type="audio/mpeg"/>
+      <guid isPermaLink="false">Leyes de el Hadas y la Araba - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Tue, 29 Sep 2026 10:28:52 -0000</pubDate>
+      <itunes:duration>00:05:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Leyes de el Hadas y la Araba - Sr. Isaac Credi</title>
-      <description>Leyes de el Hadas y la Araba - Sr. Isaac Credi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Leyes%20de%20el%20Hadas%20y%20la%20Araba%20-%20Sr.%20Isaac%20Credi.mp3" length="5356845" type="audio/mpeg"/>
-      <guid isPermaLink="false">Leyes de el Hadas y la Araba - Sr. Isaac Credi.mp3</guid>
-      <pubDate>Tue, 29 Sep 2026 10:28:52 -0000</pubDate>
-      <itunes:duration>00:05:34</itunes:duration>
+      <title>Rodear la Teba en Jol Hamoed, Alegrarse en la fiesta, Bailar en Simja Torah - Sr. Isaac Credi</title>
+      <description>Rodear la Teba en Jol Hamoed, Alegrarse en la fiesta, Bailar en Simja Torah - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Rodear%20la%20Teba%20en%20Jol%20Hamoed%2C%20Alegrarse%20en%20la%20fiesta%2C%20Bailar%20en%20Simja%20Torah%20-%20Sr.%20Isaac%20Credi.mp3" length="5507757" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rodear la Teba en Jol Hamoed, Alegrarse en la fiesta, Bailar en Simja Torah - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Wed, 30 Sep 2026 10:18:47 -0000</pubDate>
+      <itunes:duration>00:05:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Rodear la Teba en Jol Hamoed, Alegrarse en la fiesta, Bailar en Simja Torah - Sr. Isaac Credi</title>
-      <description>Rodear la Teba en Jol Hamoed, Alegrarse en la fiesta, Bailar en Simja Torah - Sr. Isaac Credi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Rodear%20la%20Teba%20en%20Jol%20Hamoed%2C%20Alegrarse%20en%20la%20fiesta%2C%20Bailar%20en%20Simja%20Torah%20-%20Sr.%20Isaac%20Credi.mp3" length="5507757" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rodear la Teba en Jol Hamoed, Alegrarse en la fiesta, Bailar en Simja Torah - Sr. Isaac Credi.mp3</guid>
-      <pubDate>Wed, 30 Sep 2026 10:18:47 -0000</pubDate>
-      <itunes:duration>00:05:44</itunes:duration>
+      <title>Desvelada de Hoshaana Raba, Orden de Simja Torah - Sr. Isaac Credi</title>
+      <description>Desvelada de Hoshaana Raba, Orden de Simja Torah - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Desvelada%20de%20Hoshaana%20Raba%2C%20Orden%20de%20Simja%20Torah%20-%20Sr.%20Isaac%20Credi.mp3" length="5491245" type="audio/mpeg"/>
+      <guid isPermaLink="false">Desvelada de Hoshaana Raba, Orden de Simja Torah - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Thu, 01 Oct 2026 10:30:27 -0000</pubDate>
+      <itunes:duration>00:05:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Desvelada de Hoshaana Raba, Orden de Simja Torah - Sr. Isaac Credi</title>
-      <description>Desvelada de Hoshaana Raba, Orden de Simja Torah - Sr. Isaac Credi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Desvelada%20de%20Hoshaana%20Raba%2C%20Orden%20de%20Simja%20Torah%20-%20Sr.%20Isaac%20Credi.mp3" length="5491245" type="audio/mpeg"/>
-      <guid isPermaLink="false">Desvelada de Hoshaana Raba, Orden de Simja Torah - Sr. Isaac Credi.mp3</guid>
-      <pubDate>Thu, 01 Oct 2026 10:30:27 -0000</pubDate>
-      <itunes:duration>00:05:43</itunes:duration>
+      <title>Orden y costumbres de Simja Torah, Hacer Hakafot, Mashib Haruaj Umorid Hagueshem - Sr. Isaac Credi</title>
+      <description>Orden y costumbres de Simja Torah, Hacer Hakafot, Mashib Haruaj Umorid Hagueshem - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Orden%20y%20costumbres%20de%20Simja%20Torah%2C%20Hacer%20Hakafot%2C%20Mashib%20Haruaj%20Umorid%20Hagueshem%20-%20Sr.%20Isaac%20Credi.mp3" length="5881773" type="audio/mpeg"/>
+      <guid isPermaLink="false">Orden y costumbres de Simja Torah, Hacer Hakafot, Mashib Haruaj Umorid Hagueshem - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 14:54:10 -0000</pubDate>
+      <itunes:duration>00:06:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -97,5 +106,6 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
 
 
 
-</channel>
-</rss>
+
+</channel>
+</rss>

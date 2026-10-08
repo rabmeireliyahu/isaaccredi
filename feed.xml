@@ -126,5 +126,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:06:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Beraja de el sandwich de helado, Arroz con carne o lentejas - Sr. Isaac Credi</title>
+      <description>Beraja de el sandwich de helado, Arroz con carne o lentejas - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Beraja%20de%20el%20sandwich%20de%20helado%2C%20Arroz%20con%20carne%20o%20lentejas%20-%20Sr.%20Isaac%20Credi.mp3" length="6001197" type="audio/mpeg"/>
+      <guid isPermaLink="false">Beraja de el sandwich de helado, Arroz con carne o lentejas - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 08:56:18 -0000</pubDate>
+      <itunes:duration>00:06:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

@@ -171,5 +171,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:05:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Kidush en el lugar de la Seuda - Sr. Isaac Credi</title>
+      <description>Kidush en el lugar de la Seuda - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Kidush%20en%20el%20lugar%20de%20la%20Seuda%20-%20Sr.%20Isaac%20Credi.mp3" length="4390701" type="audio/mpeg"/>
+      <guid isPermaLink="false">Kidush en el lugar de la Seuda - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 11:28:30 -0000</pubDate>
+      <itunes:duration>00:04:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

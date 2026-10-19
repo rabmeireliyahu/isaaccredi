@@ -207,5 +207,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:05:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Viajar en diferentes medios de transporte - Sr. Isaac Credi</title>
+      <description>Viajar en diferentes medios de transporte - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Viajar%20en%20diferentes%20medios%20de%20transporte%20-%20Sr.%20Isaac%20Credi.mp3" length="4940205" type="audio/mpeg"/>
+      <guid isPermaLink="false">Viajar en diferentes medios de transporte - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 09:24:07 -0000</pubDate>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

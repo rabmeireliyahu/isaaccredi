@@ -234,5 +234,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Ayunar por un mal sueño - Sr. Isaac Credi</title>
+      <description>Ayunar por un mal sueño - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Ayunar%20por%20un%20mal%20sue%C3%B1o%20-%20Sr.%20Isaac%20Credi.mp3" length="4346157" type="audio/mpeg"/>
+      <guid isPermaLink="false">Ayunar por un mal sueño - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 13:14:27 -0000</pubDate>
+      <itunes:duration>00:04:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

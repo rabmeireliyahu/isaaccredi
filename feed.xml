@@ -279,5 +279,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:04:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Kidush y Seuda - Sr. Isaac Credi</title>
+      <description>Kidush y Seuda - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Kidush%20y%20Seuda%20-%20Sr.%20Isaac%20Credi.mp3" length="4733229" type="audio/mpeg"/>
+      <guid isPermaLink="false">Kidush y Seuda - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 07:33:26 -0000</pubDate>
+      <itunes:duration>00:04:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

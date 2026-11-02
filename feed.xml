@@ -315,5 +315,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:05:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Beraja de el sol - Sr. Isaac Credi</title>
+      <description>Beraja de el sol - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Beraja%20de%20el%20sol%20-%20Sr.%20Isaac%20Credi.mp3" length="5294253" type="audio/mpeg"/>
+      <guid isPermaLink="false">Beraja de el sol - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 08:55:53 -0000</pubDate>
+      <itunes:duration>00:05:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

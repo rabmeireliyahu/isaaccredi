@@ -342,5 +342,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:05:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Tiempo para Tefilat Minja - Sr. Isaac Credi</title>
+      <description>Tiempo para Tefilat Minja - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Tiempo%20para%20Tefilat%20Minja%20-%20Sr.%20Isaac%20Credi.mp3" length="5094573" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tiempo para Tefilat Minja - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 08:35:15 -0000</pubDate>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

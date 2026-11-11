@@ -378,5 +378,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:04:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Berajot de el Shema de Arbit - Sr. Isaac Credi</title>
+      <description>Berajot de el Shema de Arbit - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Berajot%20de%20el%20Shema%20de%20Arbit%20-%20Sr.%20Isaac%20Credi.mp3" length="5005869" type="audio/mpeg"/>
+      <guid isPermaLink="false">Berajot de el Shema de Arbit - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 08:13:36 -0000</pubDate>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

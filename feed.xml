@@ -396,5 +396,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Si se cayó la copa de vino, Vino tinto, Kidush por bebidas ligeras - Sr. Isaac Credi</title>
+      <description>Si se cayó la copa de vino, Vino tinto, Kidush por bebidas ligeras - Sr. Isaac Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Si%20se%20cay%C3%B3%20la%20copa%20de%20vino%2C%20Vino%20tinto%2C%20Kidush%20por%20bebidas%20ligeras%20-%20Sr.%20Isaac%20Credi.mp3" length="5023917" type="audio/mpeg"/>
+      <guid isPermaLink="false">Si se cayó la copa de vino, Vino tinto, Kidush por bebidas ligeras - Sr. Isaac Credi.mp3</guid>
+      <pubDate>Sun, 15 Nov 2026 09:01:06 -0000</pubDate>
+      <itunes:duration>00:05:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

@@ -495,5 +495,14 @@ https://chat.whatsapp.com/CpEdVK8dJoGDrETN9HIRA2</description>
       <itunes:duration>00:04:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Halajot Yalkut Yosef - Sr. Isaac Credi 27-11-2026</title>
+      <description>Halajot Yalkut Yosef - Sr. Isaac Credi 27-11-2026</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-isaaccredi/Halajot%20Yalkut%20Yosef%20-%20Sr.%20Isaac%20Credi%2027-11-2026.mp3" length="5103404" type="audio/mpeg"/>
+      <guid isPermaLink="false">Halajot Yalkut Yosef - Sr. Isaac Credi 27-11-2026.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 09:00:03 -0000</pubDate>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
